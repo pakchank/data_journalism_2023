@@ -1,6 +1,6 @@
 ---
 title: "노인 돌봄 공공성의 부재 : 요양시설은 남는다는데... 갈 곳 잃은 노인들"
-author: 3조-김도연, 김예인, 양아이치, 즈엉티미주엔
+author: 김도연, 김예인, 양아이치, 즈엉티미주엔
 date: now
 date-format: YYYY-MM-DD HH:mm:ss
 abstract: ""
